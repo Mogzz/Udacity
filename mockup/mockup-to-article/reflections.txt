@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  
+- This chapter I have brushed up on skills I already knew but it has been a great refresher. It can never hurt going back to basics
+* What has been easy?
+  
+- The majority of this has lesson has been easy and a re-cap for me. But i havent used these skills in a long time so it was good to make sure I still had the knowledge
+* What has been difficult?
+ 
+- Learning the newer semantics of HTML. For example remembering to use <strong> and not <b> 
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+- I have broken the code down in to sections and worked on the parents and then the child elements.
